@@ -12,4 +12,4 @@ or RUN `npm run dev` for development
 Command  | Example
 ------------- | -------------
 `#edit_bg/bg_color`  | `#edit_bg/blue`
-`#ask/question`  | `#ask/cara koneksi golang dengan mysql?`
+`#ask/question`  | `#ask/cara koneksi ruby dengan mysql?`
