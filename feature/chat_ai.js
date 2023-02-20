@@ -9,7 +9,7 @@ const ChatAIHandler = async (text, msg) => {
         return msg.reply('Format Salah. ketik *#ask/your question*');
     }
 
-    msg.reply('sedang diproses nih, tunggu bentar ya.');
+    msg.reply('sedang diproses, tunggu bentar ya.');
 
     const question = cmd[1];
     const response = await ChatGPTRequest(question)

@@ -8,9 +8,9 @@
   integrity sha512-wtnBAETBVYZ9GvcbgdswRVSLkFkYAGv1KzwBBTeRXvGT9sb9cPllOgFFWXCn9PyARQ0H+Ijz6mmoRrGateUDxQ==
 
 "@types/node@*":
-  version "18.11.19"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.19.tgz#35e26df9ec441ab99d73e99e9aca82935eea216d"
-  integrity sha512-YUgMWAQBWLObABqrvx8qKO1enAvBUdjZOAWQ5grBAkp5LQv45jBvYKZ3oFS9iKRCQyFjqw6iuEa1vmFqtxYLZw==
+  version "18.14.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.14.0.tgz#94c47b9217bbac49d4a67a967fdcdeed89ebb7d0"
+  integrity sha512-5EWrvLmglK+imbCJY0+INViFWUHg1AHel1sq4ZVSfdcNqGy9Edv3UB9IIzzg+xPaUcAgZYcfVs2fBcwDeZzU0A==
 
 "@types/yauzl@^2.9.1":
   version "2.10.0"
@@ -79,9 +79,9 @@ asynckit@^0.4.0:
   integrity sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==
 
 axios@^1.1.3:
-  version "1.3.2"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-1.3.2.tgz#7ac517f0fa3ec46e0e636223fd973713a09c72b3"
-  integrity sha512-1M3O703bYqYuPhbHeya5bnhpYVsDDRyQSabNja04mZtboLNSuZ4YrltestrLXfHgmzua4TpUqRiVKbiQuo2epw==
+  version "1.3.3"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-1.3.3.tgz#e7011384ba839b885007c9c9fae1ff23dceb295b"
+  integrity sha512-eYq77dYIFS77AQlhzEL937yUBSepBfPIe8FcgEDN35vMNZKMrs81pgnyrQpwfy4NF4b4XWX1Zgx7yX+25w8QJA==
   dependencies:
     follow-redirects "^1.15.0"
     form-data "^4.0.0"
@@ -566,9 +566,9 @@ minimatch@^5.1.0:
     brace-expansion "^2.0.1"
 
 minimist@^1.2.6:
-  version "1.2.7"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.7.tgz#daa1c4d91f507390437c6a8bc01078e7000c4d18"
-  integrity sha512-bzfL1YUZsP41gmu/qjrEk0Q6i2ix/cVeAhbCbqH9u3zYutS1cLg00qhrD0M2MVdCcx4Sc0UpP2eBWo9rotpq6g==
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.8.tgz#c1a464e7693302e082a075cee0c057741ac4772c"
+  integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
 
 mkdirp-classic@^0.5.2:
   version "0.5.3"
@@ -607,9 +607,9 @@ node-fetch@^2.6.5:
     whatwg-url "^5.0.0"
 
 node-webpmux@^3.1.0:
-  version "3.1.3"
-  resolved "https://registry.yarnpkg.com/node-webpmux/-/node-webpmux-3.1.3.tgz#1111d74b0f588e3908ba16e579cdff0436a06c13"
-  integrity sha512-337vJ7dtoGUhE1zoN4s0mWqDO+RLVseShoWAy0FjGx0hsyDEKfVMAkHu4zfNf0RnPyGqGxnRrPZam36ld9KsxA==
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/node-webpmux/-/node-webpmux-3.1.4.tgz#5b6893e1d272ebe0d7a9603cc2b40837dd15893b"
+  integrity sha512-EgKZEB+T5AG7rbs2i39W+HBqU6OmOTz1EvioPRq2LYW+fZen/l3EKTC5ekkU7cl4/OflTCFRPXy0kIhi+4FunQ==
 
 nodemon@^2.0.20:
   version "2.0.20"
@@ -941,9 +941,9 @@ webidl-conversions@^3.0.0:
   integrity sha512-2JAn3z8AR6rjK8Sm8orRC0h/bcl/DqL7tRPdGZ4I1CjdF+EaMLmYxBHyXuKL849eucPFhvBoxMsflfOb8kxaeQ==
 
 whatsapp-web.js@^1.18.4:
-  version "1.19.3"
-  resolved "https://registry.yarnpkg.com/whatsapp-web.js/-/whatsapp-web.js-1.19.3.tgz#5eebb85df8e051b8eaa0764f377116ea4a5b6af5"
-  integrity sha512-+qPLVpSjyGMHS68znIXHAX6XhaAEh3MYmsrzzT8d+XDGy/Bw2g4z1VqiLBJbceiGT4zvKwJD7XKKFokV+ozh+Q==
+  version "1.19.4"
+  resolved "https://registry.yarnpkg.com/whatsapp-web.js/-/whatsapp-web.js-1.19.4.tgz#14d37c7107def34a65c0ffeea534873ca803f932"
+  integrity sha512-qwfdauW3rKsI2gzRexFU5y+SumXjuZTidyZXFIXaWfPzMe4ejxAkVoj/u27wyNZDqK3Z8tI/Ac3ZJFG60VgA6w==
   dependencies:
     "@pedroslopez/moduleraid" "^5.0.2"
     fluent-ffmpeg "^2.1.2"

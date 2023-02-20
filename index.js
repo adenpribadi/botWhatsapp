@@ -1,13 +1,14 @@
 const qrcode = require('qrcode-terminal');
-const { Client, NoAuth } = require('whatsapp-web.js');
+const { Client, LocalAuth } = require('whatsapp-web.js');
 const { EditPhotoHandler } = require('./feature/edit_foto');
 const { ChatAIHandler } = require('./feature/chat_ai');
 
-// equivalent to
+
+
 const client = new Client({
-    authStrategy: new NoAuth()
+    authStrategy: new LocalAuth()
 });
- 
+
 
 
 client.on('qr', qr => {
